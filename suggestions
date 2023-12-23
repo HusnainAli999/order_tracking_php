@@ -1,0 +1,6 @@
+1. please do not register with same credentials Like with F5 so because of this unique ID can be same again
+and data insert and I do not add variation for this because my main purpose is order tracking
+
+
+2. logically in orders table you saved username user address and different things related to user
+because my main purpose is order tracking so I only insert customer ID as customer information
